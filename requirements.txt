@@ -1,0 +1,8 @@
+django
+djangorestframework
+pillow
+python-decouple
+psycopg2-binary
+redis
+channels
+django-crontab
